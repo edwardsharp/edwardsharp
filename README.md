@@ -2,6 +2,14 @@
 
 (more soon)
 
+<details>
+  <summary><h1>FREQHOLE</h1></summary>
+  <h2>self-hosted music + video library && web, android, and desktop clientz that talk http or p2p</h2>
+  <p align="right">[freqhole.net](https://freqhole.net)</p>
+  <p align="right">[github.com/freqhole/](https://github.com/freqhole)</p>
+  <p>a lot going on here: a music + video player that uses [iroh](https://github.com/n0-computer/iroh) for peer-to-peer networking; web browser, mac, ios, android, windows, and linux builds.</p>
+</details>
+
 <!--
 **edwardsharp/edwardsharp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
