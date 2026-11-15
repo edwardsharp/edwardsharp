@@ -191,20 +191,20 @@ the <a href="https://edwardsharp.github.io/toidz/bno08xviz/">web visualizer</a> 
 <table>
   <tr>
   <td align="center">
-      <a href="https://raw.githubusercontent.com/edwardsharp/toidz/refs/heads/main/bno08xviz/toidz.jpeg
-      "><img src="https://raw.githubusercontent.com/edwardsharp/toidz/refs/heads/main/bno08xviz/toidz.jpeg
+      <a href="https://raw.githubusercontent.com/edwardsharp/toidz/main/bno08xviz/toidz.jpeg
+      "><img src="https://raw.githubusercontent.com/edwardsharp/toidz/main/bno08xviz/toidz.jpeg
       " alt="a picture of various electronic components mounted inside an altoids tin"></a><br>
       gutz
     </td>
     <td align="center">
-      <a href="https://raw.githubusercontent.com/edwardsharp/toidz/refs/heads/main/bno08xviz/toidz1.jpeg
-      "><img src="https://raw.githubusercontent.com/edwardsharp/toidz/refs/heads/main/bno08xviz/toidz1.jpeg
+      <a href="https://raw.githubusercontent.com/edwardsharp/toidz/main/bno08xviz/toidz1.jpeg
+      "><img src="https://raw.githubusercontent.com/edwardsharp/toidz/main/bno08xviz/toidz1.jpeg
       " alt="a picture of accelerometer visualizations on an oled screen mounted in an altoids tin"></a><br>
       oled; toggle button, rgb led, & rotary encoder ui
     </td>
     <td align="center">
-      <a href="https://raw.githubusercontent.com/edwardsharp/toidz/refs/heads/main/bno08xviz/toidz2.jpeg
-      "><img src="https://raw.githubusercontent.com/edwardsharp/toidz/refs/heads/main/bno08xviz/toidz2.jpeg
+      <a href="https://raw.githubusercontent.com/edwardsharp/toidz/main/bno08xviz/toidz2.jpeg
+      "><img src="https://raw.githubusercontent.com/edwardsharp/toidz/main/bno08xviz/toidz2.jpeg
       " alt="a zoomed in view of accelerometer visualizations on an oled screen mounted in an altoids tin"></a><br>
       accelerometer viz
     </td>
