@@ -1,6 +1,6 @@
 # zomg hiiiiii 🦦
 
-ohey, i'm 3dwardsharp and i've been hack away for ...a while now, this is an index my codez
+ohey, i'm 3dwardsharp and i've been hackin' away for ...a while now, this is an index my codez
 
 <!-- regenerate this index with: python3 update_index.py -->
 <!-- featured-index:start -->
