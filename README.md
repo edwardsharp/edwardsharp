@@ -1,22 +1,24 @@
 # zomg hiiiiii 🦦
 
-ohey, i'm 3dwardsharp and i've been hackin' away for ...a while now, this is an index my codez
+ohey, i'm 3dwardsharp and i've been hackin' away for ...a while now; this my codez.
+
+_see also:_ [edwardsharp.com](https://edwardsharp.com) | [edwardsharp.org](https://edwardsharp.org)
 
 <!-- regenerate this index with: python3 update_index.py -->
 <!-- featured-index:start -->
 <table>
-<tr><td rowspan="4" valign="top">2026</td><td><a href="#freqhole-tomb">freqhole tomb</a></td><td><code>XL</code></td><td><code>cross-platform tauri app</code> <code>p2p</code> <code>Rust</code> <code>TypeScript</code></td></tr>
+<tr><td rowspan="4" valign="top">2026</td><td><a href="#freqhole-tomb">freqhole tomb <img height="16" src="https://avatars.githubusercontent.com/u/223163300?s=60&v=4" alt=""></a></td><td><code>XL</code></td><td><code>cross-platform tauri app</code> <code>p2p</code> <code>Rust</code> <code>TypeScript</code></td></tr>
 <tr><td><a href="#skein">freqhole skein 🧶</a></td><td><code>L</code></td><td><code>p2p</code> <code>canvas</code> <code>tauri</code> <code>Rust</code> <code>TypeScript</code></td></tr>
 <tr><td><a href="#freqhole-playlistz">freqhole playlistz</a></td><td><code>L</code></td><td><code>p2p</code> <code>web-components</code> <code>TypeScript</code></td></tr>
 <tr><td><a href="#pinkweather">pinkweather</a></td><td><code>L</code></td><td><code>microcontroller</code> <code>eink</code> <code>Python</code></td></tr>
-<tr><td rowspan="3" valign="top">2025</td><td><a href="#ratcoord">ratcoord</a></td><td><code>L</code></td><td><code>dev-tools</code> <code>TUI</code> <code>Rust</code></td></tr>
+<tr><td rowspan="3" valign="top">2025</td><td><a href="#ratcoord-">ratcoord 🐀</a></td><td><code>L</code></td><td><code>dev-tools</code> <code>TUI</code> <code>Rust</code></td></tr>
 <tr><td><a href="#modelz">modelz</a></td><td><code>L</code></td><td><code>3d-printing</code> <code>microcontroller</code> <code>Eurorack</code></td></tr>
 <tr><td><a href="#toidz">toidz</a></td><td><code>L</code></td><td><code>microcontroller</code> <code>audio</code> <code>data-viz</code> <code>JavaScript</code></td></tr>
 <tr><td rowspan="3" valign="top">2024</td><td><a href="#emergency-index">Emergency Index</a></td><td><code>XL</code></td><td><code>performance art</code> <code>web archive</code> <code>$paid</code></td></tr>
-<tr><td><a href="#youoke">YOUOKE</a></td><td><code>L</code></td><td><code>Rust</code> <code>TypeScript</code> <code>websockets</code> <code>karaoke</code></td></tr>
-<tr><td><a href="#estimate-schema">estimate-schema</a></td><td><code>MD</code></td><td><code>dev-tools</code> <code>data</code> <code>TypeScript</code> <code>Zod</code></td></tr>
-<tr><td rowspan="1" valign="top">2023</td><td><a href="#versionz">versionz</a></td><td><code>MD</code></td><td><code>dev-tools</code> <code>experiment</code> <code>JavaScript</code></td></tr>
-<tr><td rowspan="1" valign="top">2022</td><td><a href="#redux-key-nav">redux-key-nav</a></td><td><code>MD</code></td><td><code>accessibility</code> <code>UI</code> <code>Redux</code> <code>TypeScript</code></td></tr>
+<tr><td><a href="#youoke-">YOUOKE 🎤</a></td><td><code>L</code></td><td><code>Rust</code> <code>TypeScript</code> <code>websockets</code> <code>karaoke</code></td></tr>
+<tr><td><a href="#estimate-schema">estimate-schema</a></td><td><code>M</code></td><td><code>dev-tools</code> <code>data</code> <code>TypeScript</code> <code>Zod</code></td></tr>
+<tr><td rowspan="1" valign="top">2023</td><td><a href="#versionz">versionz</a></td><td><code>M</code></td><td><code>dev-tools</code> <code>experiment</code> <code>JavaScript</code></td></tr>
+<tr><td rowspan="1" valign="top">2022</td><td><a href="#redux-key-nav">redux-key-nav</a></td><td><code>M</code></td><td><code>accessibility</code> <code>UI</code> <code>Redux</code> <code>TypeScript</code></td></tr>
 <tr><td rowspan="1" valign="top">2021</td><td><a href="#marsh-coop">MARSH COOP</a></td><td><code>XL</code></td><td><code>e-commerce</code> <code>web</code> <code>React</code> <code>Ruby</code> <code>digitalocean infra</code> <code>$sweat-equity</code></td></tr>
 <tr><td rowspan="3" valign="top">2018</td><td><a href="#ecotopiatoday-learning-from-cascadia">ecotopia.today: Learning from Cascadia</a></td><td><code>L</code></td><td><code>maps</code> <code>art</code> <code>Vue</code> <code>$paid</code></td></tr>
 <tr><td><a href="#a-player">a-player</a></td><td><code>L</code></td><td><code>video</code> <code>accessibility</code> <code>web-components</code> <code>$paid</code></td></tr>
@@ -27,11 +29,9 @@ ohey, i'm 3dwardsharp and i've been hackin' away for ...a while now, this is an 
 
 ## 2026
 
-### freqhole tomb
+### freqhole tomb <img height="16" src="https://avatars.githubusercontent.com/u/223163300?s=60&v=4" alt="">
 
 `XL` `cross-platform tauri app` `p2p` `Rust` `TypeScript`
-
-<img height="16" src="https://avatars.githubusercontent.com/u/223163300?s=60&v=4" alt="">
 
 <i>self-hosted music + video library && web, android, and desktop clientz that talk http or p2p</i> <b><i>$FREE</i></b>
 
@@ -98,20 +98,25 @@ the project spans the microcontroller code, display layouts, weather-data plumbi
 <hr/> 
 <table>
   <tr>
-    <td><strong><a href="https://github.com/edwardsharp/lichenbouboushian.work">lichenbouboushian.work</a></strong> <code>MD</code></td>
+    <td><strong><a href="https://github.com/edwardsharp/lichenbouboushian.work">lichenbouboushian.work</a></strong> <code>M</code></td>
     <td><code>art</code> <code>web</code></td>
     <td>a portfolio and archive for Lichen Bouboushian's work. <a href="https://edwardsharp.github.io/lichenbouboushian.work/">Pages</a></td>
   </tr>
   <tr>
-    <td><strong><a href="https://github.com/edwardsharp/dvd-iso-rippr">dvd-iso-rippr</a></strong> <code>MD</code></td>
+    <td><strong><a href="https://github.com/edwardsharp/dvd-iso-rippr">dvd-iso-rippr</a></strong> <code>M</code></td>
     <td><code>video</code> <code>CLI</code> <code>Python</code></td>
     <td>turn DVD ISO / IMG filez into H.264/AAC MP4s with FFmpeg. interactive ripping, setup helpers, and tests.</td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/edwardsharp/googy-slideshow-raspi-kiosk">googy-slideshow-raspi-kiosk</a></strong> <code>S</code></td>
+    <td><code>raspberry pi</code> <code>Python</code></td>
+    <td>googy slidez on a Raspberry Pi. use Raspberry Pi Imager app to build an sd card + add your google slides url to slideshow.txt; then plug into a raspberry pi and you're all set, easy peasy!</td>
   </tr>
 </table>
 
 ## 2025
 
-### ratcoord
+### ratcoord 🐀
 
 `L` `dev-tools` `TUI` `Rust`
 
@@ -226,7 +231,7 @@ the <a href="https://edwardsharp.github.io/toidz/bno08xviz/">web visualizer</a> 
     <td>futuredeath.agency. <a href="http://futuredeath.agency/">site filled mostly with music + photo documentation from some select performances.</a></td>
   </tr>
   <tr>
-    <td><strong><a href="https://github.com/edwardsharp/carp.rodeo">carp.rodeo</a></strong> <code>MD</code></td>
+    <td><strong><a href="https://github.com/edwardsharp/carp.rodeo">carp.rodeo</a></strong> <code>M</code></td>
     <td><code>web</code> <code>audio</code></td>
     <td>carp.rodeo, some data, and a mixtape page. <a href="http://carp.rodeo/">site</a></td>
   </tr>
@@ -257,7 +262,7 @@ the main site uses Jekyll and Liquid to turn structured project content into sta
 - **[emergencyindex](https://github.com/edwardsharp/emergencyindex)** — earlier Angular and Rails implementations.
 - **[alveol.us](https://github.com/edwardsharp/alveol.us)** `archived` — an earlier site and content archive, before the move to the main Emergency Index repo. [Pages](https://edwardsharp.github.io/alveol.us/) / [solidjs prototype demo](http://alveol.us)
 
-### YOUOKE
+### YOUOKE 🎤
 
 `L` `Rust` `TypeScript` `websockets` `karaoke`
 
@@ -269,7 +274,7 @@ the main site uses Jekyll and Liquid to turn structured project content into sta
 
 ### estimate-schema
 
-`MD` `dev-tools` `data` `TypeScript` `Zod`
+`M` `dev-tools` `data` `TypeScript` `Zod`
 
 a functional-programming-inspired utility for figuring out what shape an API's data actually has. give it a bunch of sample records and it collects the keys, observed types, distinct values, and how often each field appears.
 
@@ -291,7 +296,7 @@ that gives you clues for writing a schema: a field present in every record is a 
 
 ### versionz
 
-`MD` `dev-tools` `experiment` `JavaScript`
+`M` `dev-tools` `experiment` `JavaScript`
 
 a lil' prototype exploring versioned exports! import several versions of the same package side by side, a bit like versioned HTTP imports in Deno, but using Node.js package subpaths.
 
@@ -303,7 +308,7 @@ the experiment keeps versioned builds under separate export paths and updates th
 
 ### redux-key-nav
 
-`MD` `accessibility` `UI` `Redux` `TypeScript`
+`M` `accessibility` `UI` `Redux` `TypeScript`
 
 an opinionated proof-of-concept & demo for handling arrow-key navigation in React + Redux apps. more an exploration of a particular problem space than a finished, handles-everything library.
 
@@ -330,14 +335,14 @@ a storefront shopping cart, back-office tools, APIs, and product-data experiment
 - **[react-marsh](https://github.com/marshlife-art/react-marsh)** `archived` — an earlier React prototype.
 - **[spree](https://github.com/marshlife-art/spree)** `archived` — the earlier Spree store.
 - **[spree_stockr](https://github.com/marshlife-art/spree_stockr)** — a Spree extension for creating products from uploaded XLSX and CSV files.
-- **[csvdiffr](https://github.com/edwardsharp/csvdiffr)** `MD` — match a smaller product list against a larger price sheet by the first column, returning the corresponding rows. [Glitch project](https://glitch.com/~descriptive-seeder) / [Docker image](https://hub.docker.com/r/3dwardsharp/csvdiffr/)
+- **[csvdiffr](https://github.com/edwardsharp/csvdiffr)** `M` — match a smaller product list against a larger price sheet by the first column, returning the corresponding rows. [Glitch project](https://glitch.com/~descriptive-seeder) / [Docker image](https://hub.docker.com/r/3dwardsharp/csvdiffr/)
 - **[edwardsharp/sorta-cart](https://github.com/edwardsharp/sorta-cart)** — a related Next.js, Supabase, and Square prototype. [deployment](https://sorta-cart.vercel.app)
 
 ## 2020
 
 <table>
   <tr>
-    <td><strong><a href="https://github.com/edwardsharp/lorenebouboushian.org">lorenebouboushian.org</a></strong> <code>MD</code></td>
+    <td><strong><a href="https://github.com/edwardsharp/lorenebouboushian.org">lorenebouboushian.org</a></strong> <code>M</code></td>
     <td><code>art</code> <code>web</code> <code>fork</code></td>
     <td>an earlier artist site for Lorene Bouboushian, with Jekyll pages and image carousels.</td>
   </tr>
@@ -399,17 +404,17 @@ paid work for Rebel Cricket screen printing. the code covers several generations
 the related apparel-design demo uses React and Fabric.js to place graphics on a garment template: a small canvas-based tool for trying out a design before it becomes something printed.
 
 - **[rebelcricket](https://github.com/edwardsharp/rebelcricket)** — the site and application implementations.
-- **[demo-gfx](https://github.com/edwardsharp/demo-gfx)** `MD` — the apparel graphics editor. my first real React app. [demo](https://edwardsharp.github.io/demo-gfx/)
+- **[demo-gfx](https://github.com/edwardsharp/demo-gfx)** `M` — the apparel graphics editor. my first real React app. [demo](https://edwardsharp.github.io/demo-gfx/)
 
 <hr/>
 <table>
   <tr>
-    <td><strong><a href="https://github.com/edwardsharp/puredata">puredata</a></strong> <code>MD</code></td>
+    <td><strong><a href="https://github.com/edwardsharp/puredata">puredata</a></strong> <code>M</code></td>
     <td><code>audio</code> <code>visuals</code> <code>Pure Data</code></td>
     <td>a patch collection: synths, samplers, controllers, video, and workshop experiments.</td>
   </tr>
   <tr>
-    <td><strong><a href="https://github.com/edwardsharp/lacuna">lacuna</a></strong> <code>MD</code><br><a href="https://github.com/lacunaclub/wiki">lacunaclub/wiki</a></td>
+    <td><strong><a href="https://github.com/edwardsharp/lacuna">lacuna</a></strong> <code>M</code><br><a href="https://github.com/lacunaclub/wiki">lacunaclub/wiki</a></td>
     <td><code>art</code> <code>web</code></td>
     <td>LACUNA CLUB, plus a directory of wonderful thingz. <a href="http://lacuna.club/">site</a> / <a href="https://lacunaclub.github.io/wiki/">wiki</a></td>
   </tr>
@@ -419,7 +424,7 @@ the related apparel-design demo uses React and Fabric.js to place graphics on a 
     <td>an Nginx proxy with Let's Encrypt certificate setup, renewal, and reloads in one container. <a href="https://hub.docker.com/r/3dwardsharp/nginx-certbot/">image</a></td>
   </tr>
   <tr>
-    <td><strong><a href="https://github.com/edwardsharp/sched-datepicker">sched-datepicker</a></strong> <code>MD</code></td>
+    <td><strong><a href="https://github.com/edwardsharp/sched-datepicker">sched-datepicker</a></strong> <code>M</code></td>
     <td><code>UI</code> <code>web-components</code> <code>Polymer</code></td>
     <td>yet another datepicker. <a href="https://edwardsharp.github.io/sched-datepicker/">Pages</a> / <a href="https://edwardsharp.github.io/sched-datepicker/components/sched-datepicker/demo/index.html">component demo</a></td>
   </tr>
@@ -429,22 +434,22 @@ the related apparel-design demo uses React and Fabric.js to place graphics on a 
     <td>some notez on this and that and that other thing(z).</td>
   </tr>
   <tr>
-    <td><strong><a href="https://github.com/edwardsharp/shrine-gdrive_storage">shrine-gdrive_storage</a></strong> <code>MD</code></td>
+    <td><strong><a href="https://github.com/edwardsharp/shrine-gdrive_storage">shrine-gdrive_storage</a></strong> <code>M</code></td>
     <td><code>storage</code> <code>Ruby</code> <code>fork</code></td>
     <td>Google Drive storage for Shrine, using a Google API service account. <a href="http://shrinerb.com/">Shrine</a></td>
   </tr>
   <tr>
-    <td><strong><a href="https://github.com/edwardsharp/processing">processing</a></strong> <code>MD</code></td>
+    <td><strong><a href="https://github.com/edwardsharp/processing">processing</a></strong> <code>M</code></td>
     <td><code>art</code> <code>visuals</code> <code>Processing</code></td>
     <td>sketches, performance visuals, clocks, and occasional Android appz.</td>
   </tr>
   <tr>
-    <td><strong><a href="https://github.com/edwardsharp/schleifer">schleifer</a></strong> <code>MD</code></td>
+    <td><strong><a href="https://github.com/edwardsharp/schleifer">schleifer</a></strong> <code>M</code></td>
     <td><code>video</code> <code>realtime</code></td>
     <td>a YouTube TV experiment with Faye WebSockets on Heroku.</td>
   </tr>
   <tr>
-    <td><strong><a href="https://github.com/edwardsharp/python">python</a></strong> <code>MD</code></td>
+    <td><strong><a href="https://github.com/edwardsharp/python">python</a></strong> <code>M</code></td>
     <td><code>utility</code> <code>collection</code> <code>Python</code></td>
     <td>assorted scripts and experiments.</td>
   </tr>
@@ -459,7 +464,7 @@ the related apparel-design demo uses React and Fabric.js to place graphics on a 
     <td>rc filez for making the terminal feel like home.</td>
   </tr>
   <tr>
-    <td><strong><a href="https://github.com/edwardsharp/javascript">javascript</a></strong> <code>MD</code></td>
+    <td><strong><a href="https://github.com/edwardsharp/javascript">javascript</a></strong> <code>M</code></td>
     <td><code>utility</code> <code>collection</code> <code>JavaScript</code></td>
     <td>this and that scripts that do weird, but sometimes handy, things.</td>
   </tr>
@@ -484,7 +489,7 @@ the related apparel-design demo uses React and Fabric.js to place graphics on a 
     <td>a Ruby CalDAV library, based on earlier implementations.</td>
   </tr>
   <tr>
-    <td><strong><a href="https://github.com/edwardsharp/bash">bash</a></strong> <code>MD</code></td>
+    <td><strong><a href="https://github.com/edwardsharp/bash">bash</a></strong> <code>M</code></td>
     <td><code>utility</code> <code>video</code> <code>shell</code></td>
     <td>scripts for video conversion, file management, and other handy thingz.</td>
   </tr>
