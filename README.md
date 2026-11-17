@@ -541,7 +541,7 @@ this is the earlier app-making corner of my code archive: sequencers, clocks, in
   <tr>
     <td><strong><a href="https://github.com/micronemez/120todo">micronemez/120todo</a></strong> <code>S</code></td>
     <td><code>performance</code> <code>web</code></td>
-    <td>a countdown timer for 120 todoz, made for a Future Death Toll performance at Panoply Performance Lab in 2013. <a href="http://120todo.micronemez.com/">site</a></td>
+    <td>a countdown timer for 120 todoz; accompanied a durational performance at Panoply Performance Laboratory on black friday of 2013. <a href="http://120todo.micronemez.com/">120todo.micronemez.com</a></td>
   </tr>
   <tr>
     <td><strong><a href="https://github.com/edwardsharp/faye00">faye00</a></strong> <code>S</code></td>
