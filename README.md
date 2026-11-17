@@ -8,11 +8,11 @@ _see also:_ [edwardsharp.com](https://edwardsharp.com) | [edwardsharp.org](https
 <!-- featured-index:start -->
 <table>
 <tr><td rowspan="4" valign="top">2026</td><td><a href="#freqhole-tomb">freqhole tomb <img height="16" src="https://avatars.githubusercontent.com/u/223163300?s=60&v=4" alt=""></a></td><td><code>XL</code></td><td><code>cross-platform tauri app</code> <code>p2p</code> <code>Rust</code> <code>TypeScript</code></td></tr>
-<tr><td><a href="#skein">freqhole skein 🧶</a></td><td><code>L</code></td><td><code>p2p</code> <code>canvas</code> <code>tauri</code> <code>Rust</code> <code>TypeScript</code></td></tr>
+<tr><td><a href="#skein">freqhole skein 🧶</a></td><td><code>XL</code></td><td><code>p2p</code> <code>canvas</code> <code>tauri</code> <code>Rust</code> <code>TypeScript</code></td></tr>
 <tr><td><a href="#freqhole-playlistz">freqhole playlistz</a></td><td><code>L</code></td><td><code>p2p</code> <code>web-components</code> <code>TypeScript</code></td></tr>
 <tr><td><a href="#pinkweather">pinkweather</a></td><td><code>L</code></td><td><code>microcontroller</code> <code>eink</code> <code>Python</code></td></tr>
 <tr><td rowspan="3" valign="top">2025</td><td><a href="#ratcoord-">ratcoord 🐀</a></td><td><code>L</code></td><td><code>dev-tools</code> <code>TUI</code> <code>Rust</code></td></tr>
-<tr><td><a href="#modelz">modelz</a></td><td><code>L</code></td><td><code>3d-printing</code> <code>microcontroller</code> <code>Eurorack</code></td></tr>
+<tr><td><a href="#modelz">modelz</a></td><td><code>M</code></td><td><code>3d-printing</code> <code>microcontroller</code> <code>Eurorack</code></td></tr>
 <tr><td><a href="#toidz">toidz</a></td><td><code>L</code></td><td><code>microcontroller</code> <code>audio</code> <code>data-viz</code> <code>JavaScript</code></td></tr>
 <tr><td rowspan="3" valign="top">2024</td><td><a href="#emergency-index">Emergency Index</a></td><td><code>XL</code></td><td><code>performance art</code> <code>web archive</code> <code>$paid</code></td></tr>
 <tr><td><a href="#youoke-">YOUOKE 🎤</a></td><td><code>L</code></td><td><code>Rust</code> <code>TypeScript</code> <code>websockets</code> <code>karaoke</code></td></tr>
@@ -50,7 +50,7 @@ _see also:_ [edwardsharp.com](https://edwardsharp.com) | [edwardsharp.org](https
 
 ### freqhole skein 🧶
 
-`L` `p2p` `canvas` `tauri` `Rust` `TypeScript`
+`XL` `p2p` `canvas` `tauri` `Rust` `TypeScript`
 
 skein is, like, a miro clone? like a shared canvas-type-of thing that i used to share filez, collaborate on some mixtapez and weird star trek voyager re-editz. arrange things together on a interactive canvas with peer-to-peer netz.
 
@@ -138,7 +138,7 @@ built with Ratatui: stdout and stderr become one timestamped, color-coded stream
 
 ### modelz
 
-`L` `3d-printing` `microcontroller` `Eurorack`
+`M` `3d-printing` `microcontroller` `Eurorack`
 
 <i>a collection of artifacts from my semi-charmed 3d printing life.</i>
 
