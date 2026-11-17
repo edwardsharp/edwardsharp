@@ -504,7 +504,7 @@ binseq is binary clock visualization (using processing.js) that was an iPhone ap
 
 this is the earlier app-making corner of my code archive: sequencers, clocks, interface experiments, and other crude projects.
 
-<p align="right"><a href="https://github.com/edwardsharp/objective-c">source / app archive</a></p>
+<p align="right"><a href="https://github.com/edwardsharp/objective-c">source / app archive</a> / <a href="http://edwardsharp.net/2014/07/24/binSeq.html">demo</a></p>
 
 <hr/>
 <table>
